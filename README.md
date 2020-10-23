@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - ✨ Deno
 - ✨ Golang
 - ✨ Python
+- ✨ C#
 
 
 ### - Hobbies : 
