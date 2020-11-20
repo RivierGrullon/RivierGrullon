@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # About ME 💬 :
 
-### - I'm 19 years  old web developer, always trying to learn something new, a person who pretend to know how to program
+### - I'm web developer, always trying to learn something new, a person who pretend to know how to program
  
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/RivierGrullon/RivierGrullon/blob/master/assets/1936.gif">
